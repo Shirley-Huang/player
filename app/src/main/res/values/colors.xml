@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="base_blue">#00a5da</color>
+    <color name="white">#ffffff</color>
+
+
+    <color name="soft_gray">#30efefef</color>
+    <color name="slight_gray">#ccefefef</color>
+    <color name="light_gray">#dfdfdf</color>
+    <color name="light_gray2">#969696</color>
+    <color name="gray">#666666</color>
+    <color name="dark_gray">#818181</color>
+    <color name="black">#333333</color>
+    <color name="red">#ff3819</color>
+    <color name="green">#006030</color>
+    <color name="right_green">#00cc00</color>
+
+    <color name="default_selected">#686868</color>
+    <color name="default_selected_text">#FFFFFF</color>
+    <color name="default_base">#FFFFFF</color>
+    <color name="default_base_text">#000000</color>
+
+
+    <color name="light_orange">#fdf3e9</color>
+    <color name="dark_orange">#fc8700</color>
+
+    <color name="light_red">#fef4f4</color>
+
+    <color name="light_blue">#ebf9fc</color>
+    <color name="transparent">#70000000</color>
+    <color name="listitem_pressed">#ffe5e5e5</color>
+
+
+    <color name="map_reserve_color">#212dc5</color>
+    <color name="map_drop_in_color">#bd06bb</color>
+    <color name="map_check_color">#39ae05</color>
+    <color name="map_construction_color">#fa9f00</color>
+    <color name="focused_background">#33999999</color>
+</resources>
